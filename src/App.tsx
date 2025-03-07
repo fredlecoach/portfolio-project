@@ -94,7 +94,7 @@ function App() {
             <ProjectCard 
               title="Personal Training"
               image="/images/fredlecoach.png"
-              tech="JS | React.js | Node.js | Express | JQuery "
+              tech="JS | React.js | Node.js | Express | Firebase"
               link="https://fredlecoach.netlify.app/"
             />
             <ProjectCard 
